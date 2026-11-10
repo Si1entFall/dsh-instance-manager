@@ -1,0 +1,4 @@
+# Host half of the DSH multi-opener. The panel itself is client.js.
+- insert:
+    - id: dsh-instance-manager
+      name: dsh-instance-manager
